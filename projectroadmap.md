@@ -7,4 +7,5 @@
 - [x] Find a program the resembles my idea
 - [ ] Run and evaluate the code
 - [ ] Establish README, License, and Roadmap
-- [ ] 
+- [ ] Locate where file not found occurs and change directions
+- [ ] Make the code run
