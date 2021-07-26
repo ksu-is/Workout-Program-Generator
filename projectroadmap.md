@@ -10,5 +10,5 @@
 - [x] Locate where file not found occurs and change directions
 - [x] Make the code run
 - [ ] Write simplified version of sample program
-- [ ] understand the class funtion in python
+- [x] understand the class funtion in python
 - [ ] Make powerpoint for sprint 3
