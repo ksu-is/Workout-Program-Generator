@@ -12,4 +12,3 @@
 - [ ] Write simplified version of sample program
 - [ ] understand the class funtion in python
 - [ ] Make powerpoint for sprint 3
-- [ ] 
