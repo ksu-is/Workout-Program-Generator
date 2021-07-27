@@ -9,6 +9,6 @@
 - [x] Establish README, License, and Roadmap
 - [x] Locate where file not found occurs and change directions
 - [x] Make the code run
-- [ ] Write simplified version of sample program
+- [x] Write simplified version of sample program
 - [x] understand the class funtion in python
-- [ ] Make powerpoint for sprint 3
+- [x] Make powerpoint for sprint 3
