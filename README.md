@@ -12,4 +12,4 @@ The python program inside this repository currently is an example that I was abl
 - [x] Get code to run
 - [x] Add more detail to sample code
 - [x] Update repository with changes to code
-- [ ] Complete original application
+- [x] Complete original application
