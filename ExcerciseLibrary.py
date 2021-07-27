@@ -28,6 +28,12 @@ class legs():
     barbell = ["Back Squat", "Barbell lunges"]
     dumbell = ["Golblet squat", "dumbell walking lunges"]
     calisthenics = ["Bodyweight Squat", "Bodyweight lunge"]
+
+class lose_weight():
+    lose_weight = []
+    tredmill = ["Walk for 10 min"]
+    run = ["run at a moderate pace for 20 minutes"]
+    jump_rope = ["jump rope for 5 minutes, repeat for 3 sets"]
     
 
 
