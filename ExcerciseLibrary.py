@@ -4,7 +4,7 @@ class chest():
     dumbell = ["Dumbell Bench Press", "Dumbell Incline Bench Press", "Dumbell Flys"]
     calisthenics = ["pushups", "decline pushups"]
 
-class bices():
+class biceps():
     biceps = []
     barbell = ["Barbell Curls", "Curl Bar Preacher Curls"]
     dumbell = ["Standing Dumbell Curls", "Hammer Curls", "Dumbell Preacher Curls"]
