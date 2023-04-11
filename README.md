@@ -1,4 +1,5 @@
-# Workout-Adventur
+# Workout-Adventure
+
 A program that can create a custom exercise program in the form of an RPG for anyone who uses it. I am designing this with personal trainers, and other people who make workout programsm, in mind. This will also be able to be used by anyone ho would like a simple workout routine to meet their needs
 
 # Process
