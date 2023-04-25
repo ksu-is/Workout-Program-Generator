@@ -1,4 +1,8 @@
 import random
+import json
+
+with open('player_stats.txt','w') as player_stats:
+    json.dump(player,player_stats)
 
 # Initialize the player's stats
 player = {'name': '', 'level': 1, 'strength': 10, 'stamina': 10, 'experience': 0}
@@ -82,3 +86,4 @@ def start_game():
 
 # Start the game
 start_game()
+
